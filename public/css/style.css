@@ -2,25 +2,9 @@ body {
 	background: #FFFFE2;
 	color: #737373;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	width: 100%;
 }
 
-h1 {
-	font-style:oblique;
-	padding: 1em;
-}
-
-h2 {
-	text-decoration: underline;
-	padding: 1em;
-}
-
-p{
-	padding: 1em;
-}
-blockquote{
-	padding-top: 5em;
-}
 img {
-	max-width: 600px;
-	padding:2em;
+	width: 100%;
 }
